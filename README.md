@@ -1,2 +1,2 @@
-# glucose-monitor-
-invasive glucose monitor 
+# glucose-monitoring-
+noninvasive glucose monitor 
